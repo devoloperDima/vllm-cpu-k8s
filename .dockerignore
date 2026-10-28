@@ -1,0 +1,8 @@
+.git
+**/__pycache__
+**/*.pyc
+k8s
+loadtest
+*.md
+.env
+**/secrets.env

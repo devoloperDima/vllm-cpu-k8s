@@ -1,0 +1,10 @@
+host: 0.0.0.0
+port: 8000
+dtype: float16
+max-model-len: 4096
+max-num-seqs: 16
+max-num-batched-tokens: 4096
+kv-cache-memory-bytes: 536870912
+enable-log-requests: true
+enable-log-outputs: true
+max-log-len: 0
